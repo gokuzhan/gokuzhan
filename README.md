@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm web developer. I am currently focused on building the front-end part of the Open Source Headless CMS called ``Dynod``.
+
 <!--
 **gokuzhan/gokuzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
