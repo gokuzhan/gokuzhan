@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm web developer. I am currently focused on building the Headless CMS called `` Dynod ``.
+I'm web developer. I am currently focused on building the Headless CMS called `` NutCommerce `` for private company.
 
 <!--
 **gokuzhan/gokuzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
