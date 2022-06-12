@@ -31,4 +31,4 @@ I'm web developer.
 </p>
 <br>
 
-[![Gokuzhan Activity Graph](https://activity-graph.herokuapp.com/graph?username=gokuzhan&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&bg_color=#1b1b1b&hide_border=true&line=d1a01f&point=c58545)](https://devlatte.dev)
+[![Gokuzhan Activity Graph](https://activity-graph.herokuapp.com/graph?username=gokuzhan&theme=github&bg_color=1b1b1b&line=f1f1f1&point=cfcfcf)](https://devlatte.dev)
