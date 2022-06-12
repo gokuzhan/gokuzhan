@@ -25,7 +25,7 @@ I'm web developer.
 <br/>
 <p align="left">
   <a href="https://devlatte.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokuzhan&show_icons=true&theme=dark&hide_border=true&background=1B1B1B" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokuzhan&show_icons=true&hide_border=true&background=1B1B1B" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=gokuzhan&theme=dark&hide_border=true&ring=FCFCFC&fire=FCFCFC&background=1B1B1B&currStreakLabel=FCFCFC&border=DD2727" />
   </a>
 </p>
