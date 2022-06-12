@@ -7,6 +7,12 @@
 </div>
 </p>
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-22272D?style=for-the-badge&logo=mysql&logoColor=fcfcfc&labelColor=22272D">
+  <img src="https://img.shields.io/badge/sqlite-22272D?style=for-the-badge&logo=sqlite&logoColor=fcfcfc&labelColor=22272D">
+</div>
+</p>
 
 <p>
 <div align="center">
