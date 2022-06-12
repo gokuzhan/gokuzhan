@@ -17,3 +17,19 @@ I'm web developer.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://devlatte.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokuzhan&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuzhan&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Gokuzhan's' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gokuzhan&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://devlatte.dev)
+
