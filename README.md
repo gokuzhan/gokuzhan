@@ -8,6 +8,11 @@
 </p>
 
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
+</div>
+</p>
 
 ## Statistics
 
