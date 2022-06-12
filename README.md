@@ -1,26 +1,15 @@
-### Hi there 👋
 
-
-I'm <span style="color: green !important">Good</span> developer.
-<!-- I am currently focused on building the Headless CMS called `` NutCommerce `` for private company. -->
-
-
-<!-- **gokuzhan/gokuzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/dart-22272D?style=for-the-badge&logo=dart&logoColor=60C9F7&labelColor=22272D">
+  <img src="https://img.shields.io/badge/flutter-22272D?style=for-the-badge&logo=flutter&logoColor=60C9F7&labelColor=22272D">
+  <img src="https://img.shields.io/badge/javascript-22272D?style=for-the-badge&logo=javascript&logoColor=F5DE1A&labelColor=22272D">
+</div>
+</p>
 
 
 
-## My Statistics
+## Statistics
 
 <br/>
 <p align="left">
