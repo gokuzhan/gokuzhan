@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Good developer.
+I'm <span style="color: green">Good</span> developer.
 <!-- I am currently focused on building the Headless CMS called `` NutCommerce `` for private company. -->
 
 
