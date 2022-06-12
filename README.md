@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/javascript-22272D?style=for-the-badge&logo=javascript&logoColor=F5DE1A&labelColor=22272D">
   <img src="https://img.shields.io/badge/typescript-22272D?style=for-the-badge&logo=typescript&logoColor=2F73BF&labelColor=22272D">
   <img src="https://img.shields.io/badge/dart-22272D?style=for-the-badge&logo=dart&logoColor=60C9F7&labelColor=22272D">
-  <img src="https://img.shields.io/badge/flutter-22272D?style=for-the-badge&logo=flutter&logoColor=60C9F7&labelColor=22272D">
 </div>
 </p>
 
