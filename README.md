@@ -48,7 +48,7 @@
 <br/>
 <p align="left">
   <a href="https://devlatte.in/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokuzhan&show_icons=true&hide_border=true&bg_color=22272D&text_color=FCFCFC&title_color=FCFCFC&icon_color=adbac7&include_all_commits=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokuzhan&show_icons=true&hide_border=true&bg_color=22272D&text_color=FCFCFC&title_color=FCFCFC&icon_color=adbac7&include_all_commits=true&&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=gokuzhan&theme=dark&hide_border=true&ring=FCFCFC&fire=FCFCFC&background=22272D&currStreakLabel=FCFCFC" />
   </a>
 </p>
